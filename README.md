@@ -17,3 +17,12 @@ You can click the Preview link to take a look at your changes.
     <h1>Привет, мир!</h1>
 </body>
 </html>
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
